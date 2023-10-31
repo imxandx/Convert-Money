@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-body {
-    overflow-x: hidden;
-}
-
 .container {
     display: flex;
     align-items: center;
